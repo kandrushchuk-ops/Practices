@@ -5,7 +5,7 @@ public class Student extends Pers {
 
     public Student(String name, String lastName, String faculty) {
         super(name, lastName);
-        this.faculty = faculty; // Исправлено: this.faculty → this.faculty
+        this.faculty = faculty;
     }
 
 
@@ -15,7 +15,7 @@ public class Student extends Pers {
 
 
     public void setFaculty(String faculty) {
-        this.faculty = faculty; // Исправлено: this.faculty → this.faculty
+        this.faculty = faculty;
     }
 
     @Override
