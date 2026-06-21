@@ -4,6 +4,7 @@ out/
 !**/src/test/**/out/
 
 ### Eclipse ###
+
 .apt_generated
 .classpath
 .factorypath
@@ -12,6 +13,8 @@ out/
 .springBeans
 .sts4-cache
 bin/
+.idea/
+.gigaide/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
 
